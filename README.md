@@ -42,8 +42,8 @@ npm install
     npm run show:report
     ```
 
-  which open the html report in browser as :
-
+  which opens the html report in browser as :
   ![alt text](html-report.png)
 
+  Detailed info for the steps: 
   ![alt text](<detailed-html report.png>)
