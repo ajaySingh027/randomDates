@@ -23,7 +23,7 @@ npm install
     ```
     which runs all tests in playwright UI runner and shows the results as:
 
-    --- // need pic-01
+    ![alt text](UI-mode.png)
 
  
  - To run in headless mode
@@ -31,7 +31,8 @@ npm install
    npm run test:headless
    ```
    which shows result in console as:
-   --// need pic -02
+
+   ![alt text](headless-mode.png)
 
 
 
@@ -43,4 +44,6 @@ npm install
 
   which open the html report in browser as :
 
-  // --- need pic -03
+  ![alt text](html-report.png)
+
+  ![alt text](<detailed-html report.png>)
